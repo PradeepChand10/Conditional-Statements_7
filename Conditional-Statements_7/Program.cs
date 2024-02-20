@@ -44,6 +44,7 @@ try
         /* Execute the conditional switch statement to output different messages 
             depending on the integer value entered for years in sales
         */
+        //we are using switch cases
         switch (years_in_sales)
         {
             case 0:
